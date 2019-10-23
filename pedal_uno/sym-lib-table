@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name tl97x)(type Legacy)(uri C:/Users/USER/Documents/Projet/kicad/lib/natsfr/Amplifier/TI/tl97x.lib)(options "")(descr ""))
   (lib (name pj-002bh-smt)(type Legacy)(uri C:/Users/USER/Documents/Projet/kicad/lib/natsfr/Connectors/Power/pj-002bh-smt.lib)(options "")(descr ""))
+  (lib (name kicad-library)(type Legacy)(uri C:/Users/USER/Documents/Projet/kicad/lib/David-Estevez/library/kicad-library.lib)(options "")(descr ""))
 )
